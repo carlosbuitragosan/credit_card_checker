@@ -1,0 +1,19 @@
+{
+  "name": "credit_card_checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-wesbos": "^4.0.1",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
