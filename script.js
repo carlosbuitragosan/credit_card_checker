@@ -1,8 +1,2 @@
-console.log('hi');
-
-function sayHi(name) {
-  return name;
-}
-
-const names = { name: 'carlos' };
-const myObject = { names };
+// how to config wesbos
+// https://www.youtube.com/watch?v=lHAeK8t94as

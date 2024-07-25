@@ -3,6 +3,10 @@
     "wesbos"
   ],
   "rules": {
-    "no-unused-vars": 0,
+    "no-plusplus": "off",
+    "import/no-mutable-exports": "off",
+    "no-unused-vars": "off",
+    "camelcase": "off",
+    "no-unused-expressions": "off"
   }
 }
